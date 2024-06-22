@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BankSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestBank(failed)">
+    <groups>
+      <run>
+        <include name="Smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.siddu.groups.TestGroups">
+        <methods>
+          <include name="Builddeployment"/>
+        </methods>
+      </class> <!-- com.siddu.groups.TestGroups -->
+    </classes>
+  </test> <!-- TestBank(failed) -->
+</suite> <!-- Failed suite [BankSuite] -->

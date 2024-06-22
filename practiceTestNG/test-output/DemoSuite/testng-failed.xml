@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DemoSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="browserName" value="chrome"/>
+  <test thread-count="5" name="Login(failed)">
+    <parameter name="url" value="https://www.google.com/"/>
+    <classes>
+      <class name="com.siddu.Test.FirstTestClass">
+        <methods>
+          <include name="VerifyAtermethod"/>
+          <include name="TearDown"/>
+          <include name="InitializingtheBrowser"/>
+          <include name="Testgoogle" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.siddu.Test.FirstTestClass -->
+    </classes>
+  </test> <!-- Login(failed) -->
+  <test thread-count="5" name="HrmLogin(failed)">
+    <parameter name="url" value="hhttps://siddu8686-trials711.orangehrmlive.com"/>
+    <classes>
+      <class name="com.siddu.Test.OrangeHrm">
+        <methods>
+          <include name="verifyLoogin"/>
+          <include name="InitializingBrowser"/>
+          <include name="OpenHrmportal" invocation-numbers="0"/>
+          <include name="HrmLogin"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.siddu.Test.OrangeHrm -->
+    </classes>
+  </test> <!-- HrmLogin(failed) -->
+  <test thread-count="5" name="HRMMyinfo(failed)">
+    <parameter name="url" value="https://siddu8686-trials711.orangehrmlive.com"/>
+    <classes>
+      <class name="com.siddu.Test.OrangeHrm">
+        <methods>
+          <include name="InitializingBrowser"/>
+          <include name="OpenHrmportal" invocation-numbers="0"/>
+          <include name="VerifyMyinfo"/>
+          <include name="HrmLogin"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.siddu.Test.OrangeHrm -->
+    </classes>
+  </test> <!-- HRMMyinfo(failed) -->
+</suite> <!-- Failed suite [DemoSuite] -->

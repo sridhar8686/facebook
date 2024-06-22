@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.siddu.TakeScreenshots.Facebook">
+        <methods>
+          <include name="Facebooklogin"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="Screenshotcapture"/>
+        </methods>
+      </class> <!-- com.siddu.TakeScreenshots.Facebook -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.siddu.TakeScreenshots.Facebook">
+        <methods>
+          <include name="setUp"/>
+          <include name="Screenshotcapture"/>
+          <include name="tearDown"/>
+          <include name="Testgoogle"/>
+        </methods>
+      </class> <!-- com.siddu.TakeScreenshots.Facebook -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
