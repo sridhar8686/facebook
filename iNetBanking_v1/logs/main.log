@@ -1,0 +1,38 @@
+2024-03-16 19:52:10,015 +0530 [main] INFO  (TC_loginpage_001.java:15) - Username entered
+2024-03-16 19:52:10,119 +0530 [main] INFO  (TC_loginpage_001.java:17) - Password entered
+2024-03-16 19:55:44,461 +0530 [main] INFO  (TC_loginpage_001.java:15) - Username entered
+2024-03-16 19:55:44,599 +0530 [main] INFO  (TC_loginpage_001.java:17) - Password entered
+2024-03-16 19:55:46,564 +0530 [main] INFO  (TC_loginpage_001.java:19) - clicked on login button
+2024-03-16 19:55:46,576 +0530 [main] INFO  (TC_loginpage_001.java:25) - Successfully logged in
+2024-03-17 11:35:50,763 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-17 11:35:50,878 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-17 11:35:52,614 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-17 11:35:52,646 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-17 11:43:29,986 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-17 11:43:30,112 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-17 11:43:31,697 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-17 11:43:31,720 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:21:08,835 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:21:08,906 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:21:10,553 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:21:10,559 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:22:54,267 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:22:54,337 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:22:57,331 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:22:57,349 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:23:47,557 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:23:47,584 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:23:50,343 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:23:50,351 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:28:15,492 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:28:15,554 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:28:16,809 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:28:16,821 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:29:40,918 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:29:40,996 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:29:44,025 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:29:44,034 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
+2024-03-18 09:32:41,076 +0530 [main] INFO  (TC_loginpage_001.java:17) - Username entered
+2024-03-18 09:32:41,137 +0530 [main] INFO  (TC_loginpage_001.java:19) - Password entered
+2024-03-18 09:32:45,494 +0530 [main] INFO  (TC_loginpage_001.java:21) - clicked on login button
+2024-03-18 09:32:45,510 +0530 [main] INFO  (TC_loginpage_001.java:27) - Successfully logged in
